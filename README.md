@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/louis-bamidele/project1-spaceTourismWebsite)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://louis-bamidele.github.io/project1-spaceTourismWebsite/index.html)
 
 ## My process
 
