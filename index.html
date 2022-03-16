@@ -12,9 +12,10 @@
 </head>
 
 <body>
-  <!-- this is the header (id="header") -->
-  <section id=header>
-    <nav class="header-nav">
+  <!-- this is the header-->
+  <header role="banner">
+    <section id=header>
+    <nav class="header-nav" role="navigation">
       <div class="header-logo">
         <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
           <g fill="none" fill-rule="evenodd">
@@ -41,9 +42,12 @@
       </div>
     </nav>
   </section>
+</header>
+ 
 
   <!-- page content (body text) -->
-  <div class="parent">
+   <main role="main">
+   <div class="parent">
     <section id="content" class="child">
       <h5>So, you want to travel to</h5>
       <h2>SPACE</h2>
@@ -53,9 +57,11 @@
     </section>
     <!-- this is the button -->
     <div id="button" class="child">
-      <a href="destination-moon.html"><button class="btn" type="button" name="button">EXPLORE</button></a>
+     <button class="btn" type="button" name="button"> <a href="destination-moon.html">EXPLORE</a></button>
     </div>
   </div>
+</main>
+  
 
   <!-- this is the javascript  -->
   <script>
