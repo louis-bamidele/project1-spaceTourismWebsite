@@ -57,8 +57,8 @@ I would really love to learn more on CSS grid and flexbox, I only understand the
 
 ### Useful resources
 
-- [](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me understand flexbox. I really liked this pattern and will use it going forward.
-- [](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - This is an amazing article which helped me finally understand flex. I'd recommend it to anyone still learning this concept.
+- [link to css flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me understand flexbox. I really liked this pattern and will use it going forward.
+- [link to css layout article](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - This is an amazing article which helped me finally understand flex. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
