@@ -13,9 +13,10 @@
 </head>
 
 <body>
-  <!-- this is the header (id="header") -->
-  <section id=header>
-    <nav class="header-nav">
+  <!-- this is the header  -->
+  <header role="banner">
+   <section id=header>
+    <nav class="header-nav" role="navigation">
       <div class="header-logo">
         <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
           <g fill="none" fill-rule="evenodd">
@@ -42,10 +43,12 @@
       </div>
     </nav>
   </section>
+</header>
+  
 
   <!-- destination content -->
-
-
+<main role="main">
+  
   <h5 class="white"><span class="gray"> 03  </span>Space launch 101</h5>
   <div class="body">
     <img src="assets/technology/image-launch-vehicle-landscape.jpg" alt="launch-vehicle" class="technology-img">
@@ -65,7 +68,7 @@
 
 
       <!-- footer section  -->
-      <section id="footer">
+      <section id="footer" role="contentinfo">
         <h5>THE TERMINOLOGY...</h5>
         <h4>LAUNCH VEHICLE</h4>
         <p>A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a
@@ -75,6 +78,8 @@
       </section>
     </section>
   </div>
+
+</main>  
 
 
   <!-- this is the javascript  -->
