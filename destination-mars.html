@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="destination.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Bellefair&display=swap" rel="stylesheet">
+
+  <title>Frontend Mentor | Space tourism website</title>
+</head>
+
+<body>
+  <!-- this is the header (id="header") -->
+  <section id=header>
+    <nav class="header-nav">
+      <div class="header-logo">
+        <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
+          <g fill="none" fill-rule="evenodd">
+            <circle cx="24" cy="24" r="24" fill="#FFF" />
+            <path fill="#0B0D17" d="M24 0c0 16-8 24-24 24 15.718.114 23.718 8.114 24 24 0-16 8-24 24-24-16 0-24-8-24-24z" />
+          </g>
+        </svg>
+      </div>
+      <div class="container header-nav-text" onclick="myFunction(this) ">
+        <div class="bar0">
+
+          <div class="toggle">
+            <div class="bar1"></div>
+            <div class="bar2"></div>
+            <div class="bar3"></div>
+          </div>
+          <ul class="text">
+            <li class="inner-text"><a href="index.html"><b>00</b> HOME</a></li>
+            <li class="inner-text active"><a href="destination-moon.html"><b>01</b> DESTINATION</a></li>
+            <li class="inner-text"><a href="crew-commander.html"><b>02</b> CREW</a></li>
+            <li class="inner-text"><a href="technology-vehicle.html"><b>03</b> TECHNOLOGY</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </section>
+  <!-- page body content -->
+  <div class="body">
+    <!-- destination content -->
+
+    <section id="content">
+      <h5 class="white"><span class="gray"> 01</span> Pick your destination</h5>
+      <img src="assets/destination/image-mars.webp" alt="mars" class="destination-img">
+      <div class="destination-places">
+        <span class="destination-text"><a href="destination-moon.html">MOON</a></span>
+        <span class="destination-text active2"><a href="destination-mars.html">MARS</a></span>
+        <span class="destination-text"><a href="destination-europa.html">EUROPA</a></span>
+        <span class="destination-text"><a href="destination-titan.html">TITAN</a></span>
+      </div>
+      <h3>MARS</h3>
+      <p>Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons,
+        the tallest planetary mountain in our solar system. It’s two and a half times
+        the size of Everest!</p>
+    </section>
+    <hr>
+    <!-- footer section  -->
+    <section id="footer">
+      <div class="first-footer">
+        <p class="distance">AVG. DISTANCE</p>
+        <h6>225 MIL. KM</h6>
+      </div>
+      <div class="second-footer">
+        <p class="distance">EST. TRAVEL TIME</p>
+        <h6>9 MONTHS</h6>
+      </div>
+    </section>
+  </div>
+
+
+  <!-- this is the javascript  -->
+  <script>
+    function myFunction(x) {
+      x.classList.toggle("change");
+    }
+  </script>
+</body>
+
+</html>
