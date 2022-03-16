@@ -58,6 +58,7 @@ a {
 }
 
 .btn {
+  color: black;
   width: 150px;
   height: 150px;
   border-radius: 50%;
