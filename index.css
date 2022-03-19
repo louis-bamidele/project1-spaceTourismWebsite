@@ -5,6 +5,7 @@ body {
 }
 
 h1 {
+  margin: 0;
   font-family: 'Bellefair', serif;
   font-size: 150px;
 }
