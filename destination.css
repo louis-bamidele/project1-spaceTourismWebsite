@@ -136,6 +136,7 @@ a {
   width: 70%;
   background-color: rgba(128,128,128,0);
   backdrop-filter: blur(35px);
+  -webkit-backdrop-filter: blur(35px);
 }
 .toggle {
   margin: 8% 8% auto auto;
