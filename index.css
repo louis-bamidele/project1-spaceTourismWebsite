@@ -37,6 +37,12 @@ h5 {
   border-style: none none solid;
   border-color: #85868b;
   border-width: 5px;
+  transition: all 250ms ease-out;
+  transform-origin: right;
+  -webkit-transition: all 250ms ease-out;
+  -moz-transition: all 250ms ease-out;
+  -ms-transition: all 250ms ease-out;
+  -o-transition: all 250ms ease-out;
 }
 h6 {
   font-family: 'Bellefair', serif;
@@ -71,9 +77,14 @@ a {
 }
 
 .btn:hover {
-  box-shadow: 0px 0px 0px 46px rgba(128, 128, 128, 0.5);
-  -webkit-box-shadow: 0px 0px 0px 46px rgba(128, 128, 128, 0.5);
-  -moz-box-shadow: 0px 0px 0px 46px rgba(128, 128, 128, 0.5);
+  box-shadow: 0px 0px 0px 50px rgba(128, 128, 128, 0.5);
+  -webkit-box-shadow: 0px 0px 0px 50px rgba(128, 128, 128, 0.5);
+  -moz-box-shadow: 0px 0px 0px 50px rgba(128, 128, 128, 0.5);
+  transition: all 250ms ease-out;
+  -webkit-transition: all 250ms ease-out;
+  -moz-transition: all 250ms ease-out;
+  -ms-transition: all 250ms ease-out;
+  -o-transition: all 250ms ease-out;
 }
 
 /* For mobile phones: */
