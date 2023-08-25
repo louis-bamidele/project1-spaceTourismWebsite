@@ -46,7 +46,6 @@ Users should be able to:
 - Mobile-first workflow
 - JavaScript
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 I learnt a lot while working through this project. I would love to show you the codes I'm proud of but I can't really decide which code specifically, because I'm proud of all these codes. I had to make Researches on how to use flexbox and grid very well, was also having issues with other CSS properties but thanks to some blog post I would provide links to those post below.  
