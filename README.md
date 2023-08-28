@@ -61,7 +61,7 @@ I would really love to learn more on CSS grid and flexbox, I only understand the
 ## Author
 
 - name - [](AKINGBOYE BAMIDELE LOUIS)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/louis7734)
+- Frontend Mentor - [@louis7734](https://www.frontendmentor.io/profile/louis7734)
 - Twitter - [@l0uis_77](https://twitter.com/l0uis_77)
 
 
