@@ -14,7 +14,6 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -63,6 +62,6 @@ I would really love to learn more on CSS grid and flexbox, I only understand the
 
 - name - [](AKINGBOYE BAMIDELE LOUIS)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/louis7734)
-- Twitter - [@yourusername](https://www.twitter.com/bamidele_louis)
+- Twitter - [@l0uis_77](https://twitter.com/l0uis_77)
 
-## Acknowledgments
+
